@@ -1,1 +1,2 @@
 # Calculadora-simples
+Este programa é uma calculadora simples que permite realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão. Ele apresenta um menu para selecionar a operação desejada e pede ao usuário para digitar os números que deseja operar. Ele então executa a operação selecionada e imprime o resultado na tela. O programa também permite ao usuário realizar uma nova operação com o resultado anterior, se desejar. O programa é interativo e continuará a operar até que o usuário selecione a opção "0" para sair.
